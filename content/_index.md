@@ -9,4 +9,5 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+
+Every nice creations start from imagination followed by dedication, I work in a challenging environment with honesty and dedication with a determination to apply my knowledge, skills, and experience and professional aptitudes for the success of organisation.

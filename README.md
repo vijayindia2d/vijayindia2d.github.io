@@ -1,4 +1,4 @@
-# sathishk.github.io
+# vijayindia2d.github.io
 Profile Page Sample
 
 ## Setup
