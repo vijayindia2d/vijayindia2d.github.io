@@ -1,11 +1,12 @@
 [
-    {
-        "Collage":"PSG College of Arts & Science, Coimbatore",
-        "degree":"BA Economics",
-        "major":"Economics",
-     },
-    {
-        "school":"Image Institute of Multimedia Arts & Graphic Effects,Coimbatore.",
-        "major":"Diploma in Web & Multimedia Design (Module II)",
-    }
+  {
+    "Collage": "PSG College of Arts & Science, Coimbatore",
+    "degree": "BA Economics",
+    "major": "Economics"
+  },
+  {
+    "Institution": "Image Institute of Multimedia",
+    "degree": "Multimedia Designer",
+    "major": "Diploma in Web & Multimedia Design (Module II)"
+  }
 ]
