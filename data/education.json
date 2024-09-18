@@ -1,15 +1,11 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
-    },
+        "Collage":"PSG College of Arts & Science, Coimbatore",
+        "degree":"BA Economics",
+        "major":"Economics",
+     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Image Institute of Multimedia Arts & Graphic Effects,Coimbatore.",
+        "degree":"Diploma in Web & Multimedia Design (Module II)",
     }
 ]
